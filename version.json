@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.11",
-  "versionCode": 24,
-  "notes": "1.1.11：「打开」「查看」按钮与「检测更新」同宽，文字居中。",
+  "versionName": "1.1.12",
+  "versionCode": 25,
+  "notes": "1.1.12：更新日志弹窗去掉内容里重复的「更新日志」标题行。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
