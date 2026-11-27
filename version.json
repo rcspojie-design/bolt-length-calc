@@ -1,0 +1,8 @@
+{
+  "versionName": "1.1.0",
+  "versionCode": 13,
+  "notes": "1.1.0：新增启动自动检测新版本，可直接跳转 GitHub / 蓝奏云下载。",
+  "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
+  "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
+  "lanzouPass": "1lim"
+}
