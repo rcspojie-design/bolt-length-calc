@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.6",
-  "versionCode": 19,
-  "notes": "1.1.6：仅更新版本号，用于验证网络读取的更新内容显示。",
+  "versionName": "1.1.7",
+  "versionCode": 20,
+  "notes": "1.1.7：更新弹窗去掉「稍后」，点空白处即可关闭，两个下载按钮并排铺满；关于弹窗的版本号改为读取实际安装版本。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
