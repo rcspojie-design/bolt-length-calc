@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.8",
-  "versionCode": 21,
-  "notes": "1.1.8：仅更新版本号，用于验证新版更新弹窗外观。",
+  "versionName": "1.1.9",
+  "versionCode": 22,
+  "notes": "1.1.9：关于弹窗新增「软件仓库」「更新日志」；更新日志从 GitHub 拉取。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
