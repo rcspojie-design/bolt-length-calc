@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.12",
-  "versionCode": 25,
-  "notes": "1.1.12：更新日志弹窗去掉内容里重复的「更新日志」标题行。",
+  "versionName": "1.1.13",
+  "versionCode": 26,
+  "notes": "1.1.13：版本号提升，用于测试更新弹窗。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
