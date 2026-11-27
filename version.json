@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.10",
-  "versionCode": 23,
-  "notes": "1.1.10：关于弹窗里「软件仓库」「更新日志」「检测更新」三个按钮改为垂直排列，版本号改为蓝色加粗。",
+  "versionName": "1.1.11",
+  "versionCode": 24,
+  "notes": "1.1.11：「打开」「查看」按钮与「检测更新」同宽，文字居中。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
