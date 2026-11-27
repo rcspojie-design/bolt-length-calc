@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 14,
-  "notes": "1.1.1：关于弹窗的版本号后面新增「检测更新」按钮，可手动检查新版本。",
+  "versionName": "1.1.2",
+  "versionCode": 15,
+  "notes": "1.1.2：仅更新版本号，用于验证启动自动检测与手动检测。",
   "apk": "https://github.com/rcspojie-design/bolt-length-calc/releases/latest/download/app.apk",
   "lanzou": "https://rcspojie.lanzouw.com/b0ump7rhe",
   "lanzouPass": "1lim"
